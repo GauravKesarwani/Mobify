@@ -1,6 +1,5 @@
 
 ####Mobify
-
 ==========
 
 A working prototype of an ecommerce store to buy and sell mobile phones from multiple vendors. 
